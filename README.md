@@ -1,1 +1,3 @@
-# pages
+# Pages
+
+Public Pages
